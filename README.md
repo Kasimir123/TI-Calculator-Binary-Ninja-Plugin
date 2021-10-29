@@ -36,11 +36,13 @@ The view then checks if the file is a TI Basic program or a TI Assembly program 
 
 The TI Basic architecture decompiles the program back into the TI Basic programming language.
 
+![image](https://user-images.githubusercontent.com/13757116/139357977-2b8f9a53-3201-46cc-aab4-07c9cffee6df.png)
+
 ### TI Z80 Architecture:
 
 The TI Z80 architecture disassembles the program into Z80 assembly and parses out any TI specific instructions like romcalls.
 
-
+![image](https://user-images.githubusercontent.com/13757116/139358007-fdb3477b-f011-4561-806f-f098cf109927.png)
 
 ## Required Dependencies
 
